@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/3-column-card-component-tipMVkiKx)
-- Live Site URL: [Live Preview](https://d3press3d-3-column-card-component.netlify.app/)
+- Live Site URL: [Live Preview](https://anthony-preview-card-component.netlify.app/)
 
 ### Built with
 
