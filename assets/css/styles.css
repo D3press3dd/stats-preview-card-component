@@ -118,7 +118,7 @@ span {
     grid-template-columns: repeat(2, 1fr);
   }
   .card-info {
-    padding: 4rem 3rem;
+    padding: 4rem 4rem;
   }
 
   .card-image {
@@ -139,18 +139,26 @@ span {
   }
 
   .card-paragraph {
+    margin-bottom: 4rem;
     padding: 0;
+    padding-right: 4rem;
   }
   .card-info {
     text-align: start;
+    padding-right: 0;
   }
 
   .card-info-flex {
     display: flex;
 
     gap: 2rem;
-    justify-content: flex-start;
+    justify-content: space-between;
     align-items: center;
+    padding-right: 4rem;
+  }
+
+  .card-number {
+    font-size: 3rem;
   }
 }
 
@@ -163,5 +171,9 @@ span {
   .card-image {
     height: 40rem;
     order: 1;
+  }
+
+  .card-image {
+    height: 100%;
   }
 }
